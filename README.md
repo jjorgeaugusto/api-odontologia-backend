@@ -88,16 +88,6 @@ Este é o repositório do backend da aplicação API Odontológica, desenvolvido
 - `PUT /api/salas/{id}` - Atualiza os dados de uma sala.
 - `DELETE /api/salas/{id}` - Remove uma sala.
 
-## Contribuição
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Faça um fork do repositório.
-2. Crie uma branch para a sua feature (`git checkout -b minha-feature`).
-3. Commit suas mudanças (`git commit -m 'Adiciona minha feature'`).
-4. Faça um push para a branch (`git push origin minha-feature`).
-5. Abra um Pull Request.
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
